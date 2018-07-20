@@ -1,0 +1,7 @@
+Script started on Thu 19 Jul 2018 12:15:47 PM KST
+mount: /dev/xvdb1 is already mounted or /mnt/GB busy
+       /dev/xvdb1 is already mounted on /mnt/GB
+]0;root@research-server: ~/coda-remote[01;32mroot@research-server[00m:[01;34m~/coda-remote[00m# ^C
+
+[2]+  Exit 1                  nohup python -m SimpleHTTPServer 7070 > /dev/null 2>&1
+]0;root@research-server: ~/coda-remote[01;32mroot@research-server[00m:[01;34m~/coda-remote[00m# exit
